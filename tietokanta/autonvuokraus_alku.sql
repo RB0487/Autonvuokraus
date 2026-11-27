@@ -82,5 +82,6 @@ INSERT INTO asiakas (etunimi, sukunimi, katuosoite, postitoimipaikka, puhelin, s
 INSERT INTO sopimus (asiakasid, autoid, aloituspvm, lopetuspvm, palautettu) VALUES
 (1, 1, '2026-11-01', '2026-11-05', '2026-11-05');
 
+
 -- TEE ITSE: lisää 6 autoa, 5 asiakasta ja 3 vuokrausta lisää.
 -- Muista: avoimessa vuokrauksessa palautettu on NULL ja auton onkovapaa on 0.
